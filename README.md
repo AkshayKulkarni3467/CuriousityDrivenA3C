@@ -22,15 +22,17 @@ Some keypoints of this project:
 
 ## How training multiple agents in parallel works: 
 
+![a3c](https://github.com/AkshayKulkarni3467/CuriousityDrivenA3C/assets/129979542/af386194-7f49-41ed-9dd1-4670a7c6622d)
 
 
 ## Before training GIF:
 
-
+![training](https://github.com/AkshayKulkarni3467/CuriousityDrivenA3C/assets/129979542/898ce080-63c1-4670-bd89-37c25aa26283)
 
 
 ## After training GIF:
 
+![evaluation](https://github.com/AkshayKulkarni3467/CuriousityDrivenA3C/assets/129979542/bc06dff6-00d7-4fdd-a94c-b50cf54e2775)
 
 
 
